@@ -2,12 +2,14 @@
 
 マッチングアプリのような直感的なUIで画像を簡単に振り分けることができるアプリケーションです。
 
+![demo01](https://github.com/user-attachments/assets/80f5c8c6-1871-4cc1-b130-f10b92e68e01)
+![demo02](https://github.com/user-attachments/assets/07027dc6-8b6d-4d92-9fa0-5b501f6336e5)
+
 ## 機能
 
 - 画像フォルダをドラッグ＆ドロップまたは選択して読み込み
 - 左右キーまたはボタンで画像を「Like」「Dislike」に振り分け
 - 進捗バーで処理状況を確認
-- ピンク基調のかわいらしいUI
 
 ## 必要要件
 
