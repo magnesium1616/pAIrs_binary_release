@@ -17,32 +17,8 @@
 ## 使用方法
 
 ### 実行可能ファイル（推奨）
-1. [Releases](https://github.com/yourusername/pAIrs/releases)から最新のpAIrs.exeをダウンロード
+1. [Releases]から最新のpAIrs.exeをダウンロード
 2. ダウンロードしたpAIrs.exeをダブルクリックして実行
-
-### ソースコードから実行
-1. リポジトリをクローン
-```bash
-git clone https://github.com/yourusername/pAIrs.git
-cd pAIrs
-```
-
-2. 仮想環境を作成して有効化
-```bash
-python -m venv .venv
-.venv\Scripts\activate  # Windows
-source .venv/bin/activate  # macOS/Linux
-```
-
-3. 必要なパッケージをインストール
-```bash
-pip install -r requirements.txt
-```
-
-4. アプリケーションを起動
-```bash
-python main.py
-```
 
 2. 画像の振り分け
 - 画像フォルダを直接ウィンドウにドラッグ＆ドロップするか、「フォルダを選択」ボタンから選択
